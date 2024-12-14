@@ -1,2 +1,2 @@
 # delta0ve
-this is demo for git github class
+this is demo for git github class.
